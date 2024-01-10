@@ -102,14 +102,14 @@ conference:
       color: primary
       main_only: true
       text: test
-        #        |
-        #Key dates
+                |
+            Key dates
         #        Registration deadline - May 31st.
         #        School - September 8-12, 2024.
         #
         #---
         #
-            The school is a [PANGAIA](https://pangenome.eu) event.
+        #The school is a [PANGAIA](https://pangenome.eu) event.
       #    - text: This is just some random content for demonstration purposes.
       #color: warning
       #pages_only: true
