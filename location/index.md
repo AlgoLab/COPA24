@@ -2,6 +2,9 @@
 layout: location
 ---
 
-How to get to the conference
+[How to get to the conference](https://lakecomoschool.org/travel-info/)
 
-You can adapt the design as well as the section shown on the map by copying the `assets/js/main.js` from the theme's repository and editing it. See also the subsection [Location / Room Overview](https://github.com/DigitaleGesellschaft/jekyll-theme-conference/#location--room-overview) section of the theme's README file.
+[Conference venue](https://lakecomoschool.org/location-accommodation/)
+
+[Lake Como School of Advanced Studies](https://lakecomoschool.org/)
+
