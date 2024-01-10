@@ -1,5 +1,5 @@
 ---
-name: Test 09-A
+name: Lecture 09A
 speakers:
   - Tolga Philip
 categories:
