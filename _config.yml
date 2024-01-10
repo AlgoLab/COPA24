@@ -1,7 +1,7 @@
 title: PhD school on Evolution in Computational Pangenomics
 preposition: at Como
 description: >-
-  Conference of a random organization on January 1st in Zurich, Switzerland
+  School on Evolution in Computational Pangenomics
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://algolab.github.io/COPA24/" 
 plugins:
@@ -63,7 +63,7 @@ conference:
   # Navigation bar
   navigation:
     logo:
-      name: Digital Society Switzerland
+      name: Evolution in Computational Pangenomics
       # img: ''
       url: 'https://algolab.github.io/COPA24/'
     links:
@@ -99,15 +99,15 @@ conference:
 
   # Information boxes
   info_bars:
-    - title: Welcome to the Conference Theme for Jekyll!
+    - title: Welcome to the Evolution in Computational Pangenomics PhD School
       color: primary
       main_only: true
       text: |
-        The Theme was originally made for the [Winterkongress](https://www.digitale-gesellschaft.ch/kongress/), a yearly conference of the [Digital Society Switzerland](https://digitale-gesellschaft.ch/).
+Description
 
         ---
 
-        See the [README](github.com/DigitaleGesellschaft/jekyll-theme-conference/) on the project's GitHub repository for further information on how to configure and adapt it to your needs.
+Lorem ipsum.
     - text: This is just some random content for demonstration purposes.
       color: warning
       pages_only: true
