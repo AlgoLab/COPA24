@@ -104,10 +104,8 @@ conference:
       main_only: true
       text: |
 Description
-
         ---
-
-Lorem ipsum.
+Information box
     - text: This is just some random content for demonstration purposes.
       color: warning
       pages_only: true
