@@ -1,5 +1,5 @@
-title: Conference 2020
-preposition: at
+title: PhD school on Evolution in Computational Pangenomics
+preposition: at Como
 description: >-
   Conference of a random organization on January 1st in Zurich, Switzerland
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -52,11 +52,7 @@ defaults:
 
 
 conference:
-
-  # Language
   lang: en
-
-  # Show theme errors:
   show_errors: True
 
   # Navigation bar
@@ -74,14 +70,6 @@ conference:
         relative_url: /speakers/
       - name: Location
         relative_url: /location/
-      - name: Previous Editions
-        menu:
-          - name: 2020 (current)
-            disabled: true
-          - name: 2019
-            relative_url: /2019/
-          - name: 2018
-            relative_url: /2018/
 
   # Link Preview for Sharing
   link_preview:
@@ -121,7 +109,7 @@ conference:
 
   # Live indications
   live:
-    date: 01.01.2020
+    date: 08.09.2024
     timezone: GMT+1
     stop:       240  # in minutes
     streaming:
@@ -174,7 +162,7 @@ conference:
     url: '/program'
 
     # Time steps in program table
-    time_steps: 15 # in minutes
+    time_steps: 30 # in minutes
 
     # Show intermediary time steps (next to full hours)
     show_alltimes: true
