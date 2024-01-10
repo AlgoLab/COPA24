@@ -1,5 +1,6 @@
 ---
-name: Room A
+name: Lecture room
+hide: true
 ---
 
-A short way description on how to find the room
+First floor or ground floor
