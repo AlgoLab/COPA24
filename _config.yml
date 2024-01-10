@@ -3,9 +3,8 @@ preposition: at Como
 description: >-
   School on Evolution in Computational Pangenomics
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://algolab.github.io/COPA24/" 
+url: "https://COPA24.pangenome.eu" 
 plugins:
-  - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-include-cache
@@ -62,14 +61,14 @@ conference:
 
   # Navigation bar
   navigation:
-    logo:
-      name: Evolution in Computational Pangenomics
-      # img: ''
-      url: 'https://algolab.github.io/COPA24/'
+    #    logo:
+    #  name: Evolution in Computational Pangenomics
+    #  # img: ''
+    #  url: 'https://algolab.github.io/COPA24/'
     links:
       - name: Program
         relative_url: /program/
-      - name: Talks
+      - name: Lectures
         relative_url: /talks/
       - name: Speakers
         relative_url: /speakers/
@@ -114,12 +113,12 @@ conference:
 
   # Live indications
   live:
-    date: 08.09.2024
+    date: 09.09.2024
     timezone: GMT+1
     stop:       240  # in minutes
     streaming:
       enable: true
-      pause:     60  # in minutes
+      pause:     20  # in minutes
       prepend:    5  # in minutes
       extend:     5  # in minutes
     demo:
@@ -131,9 +130,9 @@ conference:
     # Talk categories
     main_categories:
       - name: Lecture
-        color: info
+        color: primary
       - name: Break
-        color: success
+        color: secondary
 
     # Hide icons on talk overview page
     hide_icons: false
