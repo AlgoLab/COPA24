@@ -3,7 +3,7 @@ name: Test 09-A
 speakers:
   - Tolga Philip
 categories:
-  - Lecture
+  - Lectures
   - Talk
 ---
 

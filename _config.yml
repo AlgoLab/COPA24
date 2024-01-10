@@ -112,26 +112,26 @@ conference:
       pages_only: true
 
   # Live indications
-  live:
-    date: 09.09.2024
-    timezone: GMT+1
-    stop:       240  # in minutes
-    streaming:
-      enable: true
-      pause:     20  # in minutes
-      prepend:    5  # in minutes
-      extend:     5  # in minutes
-    demo:
-      enable: false
-      duration: 300  # in seconds
-      pause:     10  # in seconds
+  #  live:
+  #  date: 09.09.2024
+  #  timezone: GMT+1
+  #  stop:       240  # in minutes
+  #  streaming:
+  #    enable: true
+  #    pause:     20  # in minutes
+  #    prepend:    5  # in minutes
+  #    extend:     5  # in minutes
+  #  demo:
+  #    enable: false
+  #    duration: 300  # in seconds
+  #    pause:     10  # in seconds
 
   talks:
     # Talk categories
     main_categories:
-      - name: Lecture
+      - name: Lectures
         color: primary
-      - name: Break
+      - name: Breaks
         color: secondary
 
     # Hide icons on talk overview page
