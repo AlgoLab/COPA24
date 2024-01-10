@@ -109,7 +109,7 @@ conference:
         #
         #---
         #
-        #      The school is a [PANGAIA](https://pangenome.eu) event.
+            The school is a [PANGAIA](https://pangenome.eu) event.
       #    - text: This is just some random content for demonstration purposes.
       #color: warning
       #pages_only: true
