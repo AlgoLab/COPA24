@@ -17,9 +17,16 @@ In fact, we remind that one of the main goals of the PANGAIA project is to put t
 
 [Pangaia](https://pangenome.eu)
 
-# Organizers
+# School Directors
 
 *  Paola Bonizzoni (Univ. Milano-Bicocca, Italy)
 *  Gianluca Della Vedova (Univ. Milano-Bicocca, Italy)
 *  Alexander Schönhuth (Univ. Bielefeld, Germany)
 
+# Organizers
+
+
+*  Paola Bonizzoni 
+*  Simone Ciccolella
+*  Gianluca Della Vedova 
+*  Luca Denti
