@@ -13,10 +13,10 @@ days:
         time_end: '12:30'
       - name: Lecture 09C
         time_start: '14:00'
-        time_end: '14:30'
+        time_end: '15:30'
       - name: Lecture 09D
         time_start: '16:00'
-        time_end: '16:30'
+        time_end: '17:30'
 
 - name: Tuesday
   abbr: Tue
@@ -32,10 +32,10 @@ days:
         time_end: '12:30'
       - name: Lecture 10C
         time_start: '14:00'
-        time_end: '14:30'
+        time_end: '15:30'
       - name: Lecture 10D
         time_start: '16:00'
-        time_end: '16:30'
+        time_end: '17:30'
 
 - name: Wednesday
   abbr: Wed
@@ -64,9 +64,9 @@ days:
         time_end: '12:30'
       - name: Lecture 12C
         time_start: '14:00'
-        time_end: '14:30'
+        time_end: '15:30'
       - name: Lecture 12D
         time_start: '16:00'
-        time_end: '16:30'
+        time_end: '17:30'
 
 
