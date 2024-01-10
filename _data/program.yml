@@ -1,13 +1,4 @@
 days:
-- name: Sunday
-  abbr: Sun
-  date: 2024-09-08
-  rooms:
-  - name: Garden
-    talks:
-      - name: Welcome
-        time_start: '18:00'
-        time_end: '20:00'
 - name: Monday
   abbr: Mon
   date: 2024-09-09
@@ -27,16 +18,6 @@ days:
         time_start: '16:00'
         time_end: '16:30'
 
-  - name: Garden
-    talks:
-      - name: Coffee break
-        time_start: '10:30'
-        time_end: '11:00'
-      - name: Lunch
-        time_start: '12:30'
-        time_end: '14:00'
-      - name: Coffee break
-        time_start: '14:30'
 - name: Tuesday
   abbr: Tue
   date: 2024-09-10
@@ -56,16 +37,6 @@ days:
         time_start: '16:00'
         time_end: '16:30'
 
-  - name: Garden
-    talks:
-      - name: Coffee break
-        time_start: '10:30'
-        time_end: '11:00'
-      - name: Lunch
-        time_start: '12:30'
-        time_end: '14:00'
-      - name: Coffee break
-        time_start: '14:30'
 - name: Wednesday
   abbr: Wed
   date: 2024-09-11
@@ -79,14 +50,6 @@ days:
         time_start: '11:00'
         time_end: '12:30'
 
-  - name: Garden
-    talks:
-      - name: Coffee break
-        time_start: '10:30'
-        time_end: '11:00'
-      - name: Lunch + Excursion
-        time_start: '12:30'
-        time_end: '14:00'
 - name: Thursday
   abbr: Thu
   date: 2024-09-12
@@ -106,15 +69,4 @@ days:
         time_start: '16:00'
         time_end: '16:30'
 
-  - name: Garden
-    talks:
-      - name: Coffee break
-        time_start: '10:30'
-        time_end: '11:00'
-      - name: Lunch
-        time_start: '12:30'
-        time_end: '14:00'
-      - name: Coffee break
-        time_start: '14:30'
-        time_end: '15:00'
 

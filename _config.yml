@@ -131,8 +131,6 @@ conference:
     main_categories:
       - name: Lectures
         color: primary
-      - name: Breaks
-        color: secondary
 
     # Hide icons on talk overview page
     hide_icons: false
