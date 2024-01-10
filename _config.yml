@@ -103,7 +103,8 @@ conference:
       main_only: true
       text: The school is a [PANGAIA](https://pangenome.eu) event.
             Key dates
-          - text: Registration deadline - May 31st
+    - title: Registration deadline
+      text: May 31st
       color: warning
       pages_only: true
 
