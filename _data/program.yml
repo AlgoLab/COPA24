@@ -1,25 +1,120 @@
 days:
-- name: Monday
-  abbr: Mo
-  date: 2020-01-31
+- name: Sunday
+  abbr: Sun
+  date: 2024-09-08
   rooms:
-  - name: Room A
+  - name: Garden
     talks:
-      - name: Vim Impetus Placerat Cotidieque Ad
-        time_start: '12:00'
-        time_end: '12:45'
-      - name: Condimentum Vitae Sapien Pellentesque
-        time_start: '12:45'
-        time_end: '13:30'
-
-  - name: Room B
+      - name: Welcome
+        time_start: '18:00'
+        time_end: '20:00'
+- name: Monday
+  abbr: Mon
+  date: 2024-09-09
+  rooms:
+  - name: Lecture room
     talks:
-      - name: Arcu Non Odio
-        time_start: '12:00'
-        time_end: '13:00'
-
-  - name: Room C
-    talks:
-      - name: Eu Nisl Nunc Mi Ipsum Faucibus
-        time_start: '13:30'
+      - name: Lecture 09A
+        time_start: '09:00'
+        time_end: '10:30'
+      - name: Lecture 09B
+        time_start: '11:00'
+        time_end: '12:30'
+      - name: Lecture 09C
+        time_start: '14:00'
         time_end: '14:30'
+      - name: Lecture 09D
+        time_start: '16:00'
+        time_end: '16:30'
+
+  - name: Garden
+    talks:
+      - name: Coffee break
+        time_start: '10:30'
+        time_end: '11:00'
+      - name: Lunch
+        time_start: '12:30'
+        time_end: '14:00'
+      - name: Coffee break
+        time_start: '14:30'
+- name: Tuesday
+  abbr: Tue
+  date: 2024-09-10
+  rooms:
+  - name: Lecture room
+    talks:
+      - name: Lecture 10A
+        time_start: '09:00'
+        time_end: '10:30'
+      - name: Lecture 10B
+        time_start: '11:00'
+        time_end: '12:30'
+      - name: Lecture 10C
+        time_start: '14:00'
+        time_end: '14:30'
+      - name: Lecture 10D
+        time_start: '16:00'
+        time_end: '16:30'
+
+  - name: Garden
+    talks:
+      - name: Coffee break
+        time_start: '10:30'
+        time_end: '11:00'
+      - name: Lunch
+        time_start: '12:30'
+        time_end: '14:00'
+      - name: Coffee break
+        time_start: '14:30'
+- name: Wednesday
+  abbr: Wed
+  date: 2024-09-11
+  rooms:
+  - name: Lecture room
+    talks:
+      - name: Lecture 11A
+        time_start: '09:00'
+        time_end: '10:30'
+      - name: Lecture 11B
+        time_start: '11:00'
+        time_end: '12:30'
+
+  - name: Garden
+    talks:
+      - name: Coffee break
+        time_start: '10:30'
+        time_end: '11:00'
+      - name: Lunch + Excursion
+        time_start: '12:30'
+        time_end: '14:00'
+- name: Thursday
+  abbr: Thu
+  date: 2024-09-12
+  rooms:
+  - name: Lecture room
+    talks:
+      - name: Lecture 12A
+        time_start: '09:00'
+        time_end: '10:30'
+      - name: Lecture 12B
+        time_start: '11:00'
+        time_end: '12:30'
+      - name: Lecture 12C
+        time_start: '14:00'
+        time_end: '14:30'
+      - name: Lecture 12D
+        time_start: '16:00'
+        time_end: '16:30'
+
+  - name: Garden
+    talks:
+      - name: Coffee break
+        time_start: '10:30'
+        time_end: '11:00'
+      - name: Lunch
+        time_start: '12:30'
+        time_end: '14:00'
+      - name: Coffee break
+        time_start: '14:30'
+        time_end: '15:00'
+
