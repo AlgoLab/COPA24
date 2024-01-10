@@ -4,8 +4,9 @@ description: >-
   Conference of a random organization on January 1st in Zurich, Switzerland
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://copa24.pangenome.eu" # the base hostname & protocol for your site, e.g. https://example.com
+plugins: ["jekyll-include-cache"]
 
-theme: jekyll-theme-conference
+remote_theme: "DigitaleGesellschaft/jekyll-theme-conference@v3.6.1"
 
 # Build settings
 markdown: kramdown
