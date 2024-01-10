@@ -17,3 +17,9 @@ In fact, we remind that one of the main goals of the PANGAIA project is to put t
 
 [Pangaia](https://pangenome.eu)
 
+# Organizers
+
+*  Paola Bonizzoni (Univ. Milano-Bicocca, Italy)
+*  Gianluca Della Vedova (Univ. Milano-Bicocca, Italy)
+*  Alexander Schönhuth (Univ. Bielefeld, Germany)
+

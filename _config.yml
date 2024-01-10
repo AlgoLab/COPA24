@@ -98,18 +98,20 @@ conference:
 
    # Information boxes
   info_bars:
-    - title: Welcome to the Conference Theme for Jekyll!
+    - title: Welcome to the PhD school on Evolution in Computational Pangenomics 
       color: primary
       main_only: true
       text: |
-        The Theme was originally made for the [Winterkongress](https://www.digitale-gesellschaft.ch/kongress/), a yearly conference of the [Digital Society Switzerland](https://digitale-gesellschaft.ch/).
+        Key dates
+                Registration deadline: May 31st.
+                School: September 8-12, 2024.
 
         ---
 
-        See the [README](github.com/DigitaleGesellschaft/jekyll-theme-conference/) on the project's GitHub repository for further information on how to configure and adapt it to your needs.
-    - text: This is just some random content for demonstration purposes.
-      color: warning
-      pages_only: true
+      The school is a [PANGAIA](https://pangenome.eu) event.
+      #    - text: This is just some random content for demonstration purposes.
+      #color: warning
+      #pages_only: true
 
   # Live indications
   #  live:
