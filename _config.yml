@@ -101,18 +101,11 @@ conference:
     - title: Welcome to the PhD school on Evolution in Computational Pangenomics 
       color: primary
       main_only: true
-      text: test
-                |
+      text: The school is a [PANGAIA](https://pangenome.eu) event.
             Key dates
-        #        Registration deadline - May 31st.
-        #        School - September 8-12, 2024.
-        #
-        #---
-        #
-        #The school is a [PANGAIA](https://pangenome.eu) event.
-      #    - text: This is just some random content for demonstration purposes.
-      #color: warning
-      #pages_only: true
+          - text: Registration deadline - May 31st
+      color: warning
+      pages_only: true
 
   # Live indications
   #  live:

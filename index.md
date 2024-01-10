@@ -13,6 +13,11 @@ After the success of the *Introduction to Pan-Genomics* school, this school will
 In both cases, we will focus on graph-based frameworks, since one of the main allures of computational pangenomics is to get rid of linear reference genomes and the bias it introduces. 
 In fact, we remind that one of the main goals of the PANGAIA project is to put this shift of paradigm—from sequence- to graph-based representations of genomes —into full effect. 
 
+# Key dates
+
+*  Registration deadline: May 31st
+*  School dates: September 8-12, 2024
+
 # Sponsors
 
 [Pangaia](https://pangenome.eu)
