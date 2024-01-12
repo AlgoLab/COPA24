@@ -1,6 +1,6 @@
 ---
 name: Welcome participants
-speakers: Organizers
+speakers: None
 categories: Social
 hide: true
 ---
