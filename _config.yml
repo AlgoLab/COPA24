@@ -128,6 +128,8 @@ conference:
     main_categories:
       - name: Lectures
         color: primary
+      - name: Social
+        color: secondary
 
     # Hide icons on talk overview page
     hide_icons: false

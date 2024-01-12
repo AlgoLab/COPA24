@@ -1,6 +1,7 @@
 ---
 name: Welcome participants
-speakers : The Anonymous
+speakers: Organizers
+categories: Social
 hide: true
 ---
 
