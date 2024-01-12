@@ -1,4 +1,14 @@
 days:
+- name: Sunday
+  abbr: Sun
+  date: 2024-09-08
+  rooms:
+  - name: Lecture room
+    talks:
+      - name: Welcome participants
+        time_start: '18:00'
+        time_end: '20:30'
+
 - name: Monday
   abbr: Mon
   date: 2024-09-09
