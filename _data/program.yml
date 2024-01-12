@@ -59,6 +59,10 @@ days:
       - name: Lecture 11B
         time_start: '11:00'
         time_end: '12:30'
+      - name: Excursion
+        time_start: '14:00'
+        time_end: '18:00'
+
 
 - name: Thursday
   abbr: Thu
