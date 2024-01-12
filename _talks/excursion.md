@@ -1,6 +1,6 @@
 ---
 name: Excursion
-speakers: Organizers
+speakers: None
 categories: Social
 hide: true
 ---
