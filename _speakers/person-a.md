@@ -1,10 +1,10 @@
 ---
-name: Full name
-first_name: Name
-last_name: Surname
+name: Dan Gusfield
+first_name: Dan
+last_name: Gusfield
 links:
-  - name: Profile
-    absolute_url: https://github.com
+  - name: Website
+    absolute_url: https://cs.ucdavis.edu/directory/dan-gusfield
 ---
 
 Full profile
